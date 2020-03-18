@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="385246e0-b26d-4396-b7e3-28f477dffdd4" name="Default Changelist" comment="" />
+    <list default="true" id="385246e0-b26d-4396-b7e3-28f477dffdd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_config_ini/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_config_ini/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_config_ini/test_config_ini.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +21,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZDhEKQX6dW8pSIlaaGR9PogDeI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/report" />
   </component>
   <component name="RecentsManager">
@@ -33,7 +45,7 @@
       <recent name="F:\xiecheng_UI_auto\base" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run_cases_inbatch">
+  <component name="RunManager" selected="Python.test_config_ini">
     <configuration name="run_cases_inbatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="xiecheng_UI_auto" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ticket_buy_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_config_ini" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="xiecheng_UI_auto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_config_ini" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCase/ticket_buy_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_config_ini/test_config_ini.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_config_ini" />
         <item itemvalue="Python.run_cases_inbatch" />
         <item itemvalue="Python tests.Unittests for test_ddt.test_ddt" />
         <item itemvalue="Python tests.Unittests for case01.Test1" />
         <item itemvalue="Python tests.Unittests in case01.py" />
-        <item itemvalue="Python.ticket_buy_01" />
       </list>
     </recent_temporary>
   </component>
@@ -148,22 +160,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584464831778" />
-    <state width="1899" height="291" key="GridCell.Tab.0.bottom" timestamp="1584466903337">
+    <state width="1899" height="291" key="GridCell.Tab.0.bottom" timestamp="1584531916404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903337" />
-    <state width="1899" height="291" key="GridCell.Tab.0.center" timestamp="1584466903336">
+    <state width="1899" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584531916404" />
+    <state width="1899" height="291" key="GridCell.Tab.0.center" timestamp="1584531916404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="291" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903336" />
-    <state width="1899" height="291" key="GridCell.Tab.0.left" timestamp="1584466903336">
+    <state width="1899" height="291" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584531916404" />
+    <state width="1899" height="291" key="GridCell.Tab.0.left" timestamp="1584531916404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="291" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903336" />
-    <state width="1899" height="291" key="GridCell.Tab.0.right" timestamp="1584466903337">
+    <state width="1899" height="291" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584531916404" />
+    <state width="1899" height="291" key="GridCell.Tab.0.right" timestamp="1584531916404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="291" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903337" />
+    <state width="1899" height="291" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584531916404" />
     <state width="1899" height="359" key="GridCell.Tab.1.bottom" timestamp="1584466903334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
