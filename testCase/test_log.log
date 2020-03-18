@@ -1,0 +1,64 @@
+2020/17/03 22:42:20 PM - INFO - Begin Search Test
+2020/17/03 22:42:20 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/url {"url": "https://trains.ctrip.com/TrainBooking/SearchTrain.aspx"}
+2020/17/03 22:42:21 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/url HTTP/1.1" 200 14
+2020/17/03 22:42:21 PM - DEBUG - Finished Request
+2020/17/03 22:42:21 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/timeouts {"implicit": 10000}
+2020/17/03 22:42:21 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/timeouts HTTP/1.1" 200 14
+2020/17/03 22:42:21 PM - DEBUG - Finished Request
+2020/17/03 22:42:21 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/window/maximize {}
+2020/17/03 22:42:26 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/window/maximize HTTP/1.1" 200 52
+2020/17/03 22:42:26 PM - DEBUG - Finished Request
+2020/17/03 22:42:29 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element {"using": "css selector", "value": "[id=\"notice01\"]"}
+2020/17/03 22:42:29 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element HTTP/1.1" 200 88
+2020/17/03 22:42:29 PM - DEBUG - Finished Request
+2020/17/03 22:42:29 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element/ce11647f-7983-4f06-9905-6f07be3ec6b9/value {"text": "\u6210\u90fd", "value": ["\u6210", "\u90fd"], "id": "ce11647f-7983-4f06-9905-6f07be3ec6b9"}
+2020/17/03 22:42:29 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element/ce11647f-7983-4f06-9905-6f07be3ec6b9/value HTTP/1.1" 200 14
+2020/17/03 22:42:29 PM - DEBUG - Finished Request
+2020/17/03 22:42:32 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element {"using": "css selector", "value": "[id=\"notice08\"]"}
+2020/17/03 22:42:32 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element HTTP/1.1" 200 88
+2020/17/03 22:42:32 PM - DEBUG - Finished Request
+2020/17/03 22:42:32 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element/74627be6-eec3-423c-a1e5-2a204fd878cd/value {"text": "\u4e0a\u6d77", "value": ["\u4e0a", "\u6d77"], "id": "74627be6-eec3-423c-a1e5-2a204fd878cd"}
+2020/17/03 22:42:32 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element/74627be6-eec3-423c-a1e5-2a204fd878cd/value HTTP/1.1" 200 14
+2020/17/03 22:42:32 PM - DEBUG - Finished Request
+2020/17/03 22:42:35 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/execute/sync {"script": "document.getElementById('dateObj').removeAttribute('readonly')", "args": []}
+2020/17/03 22:42:35 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/execute/sync HTTP/1.1" 200 14
+2020/17/03 22:42:35 PM - DEBUG - Finished Request
+2020/17/03 22:42:35 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element {"using": "css selector", "value": "[id=\"dateObj\"]"}
+2020/17/03 22:42:35 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element HTTP/1.1" 200 88
+2020/17/03 22:42:35 PM - DEBUG - Finished Request
+2020/17/03 22:42:35 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element/a56f5167-f07b-422c-b129-76249fbe4140/clear {"id": "a56f5167-f07b-422c-b129-76249fbe4140"}
+2020/17/03 22:42:35 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element/a56f5167-f07b-422c-b129-76249fbe4140/clear HTTP/1.1" 200 14
+2020/17/03 22:42:35 PM - DEBUG - Finished Request
+2020/17/03 22:42:35 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element {"using": "css selector", "value": "[id=\"dateObj\"]"}
+2020/17/03 22:42:35 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element HTTP/1.1" 200 88
+2020/17/03 22:42:35 PM - DEBUG - Finished Request
+2020/17/03 22:42:35 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element/a56f5167-f07b-422c-b129-76249fbe4140/value {"text": "2020-03-18", "value": ["2", "0", "2", "0", "-", "0", "3", "-", "1", "8"], "id": "a56f5167-f07b-422c-b129-76249fbe4140"}
+2020/17/03 22:42:35 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element/a56f5167-f07b-422c-b129-76249fbe4140/value HTTP/1.1" 200 14
+2020/17/03 22:42:35 PM - DEBUG - Finished Request
+2020/17/03 22:42:35 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/actions {"actions": [{"type": "pointer", "parameters": {"pointerType": "mouse"}, "id": "mouse", "actions": [{"type": "pointerMove", "duration": 250, "x": 0, "y": 0, "origin": "pointer"}, {"type": "pointerDown", "duration": 0, "button": 0}, {"type": "pointerUp", "duration": 0, "button": 0}]}, {"type": "key", "id": "key", "actions": [{"type": "pause", "duration": 0}, {"type": "pause", "duration": 0}, {"type": "pause", "duration": 0}]}]}
+2020/17/03 22:42:35 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/actions HTTP/1.1" 200 14
+2020/17/03 22:42:35 PM - DEBUG - Finished Request
+2020/17/03 22:42:35 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element {"using": "css selector", "value": "[id=\"searchbtn\"]"}
+2020/17/03 22:42:35 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element HTTP/1.1" 200 88
+2020/17/03 22:42:35 PM - DEBUG - Finished Request
+2020/17/03 22:42:35 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element/2bc9e9bc-f54d-4781-9cfd-c94446d838c1/click {"id": "2bc9e9bc-f54d-4781-9cfd-c94446d838c1"}
+2020/17/03 22:42:36 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element/2bc9e9bc-f54d-4781-9cfd-c94446d838c1/click HTTP/1.1" 200 14
+2020/17/03 22:42:36 PM - DEBUG - Finished Request
+2020/17/03 22:42:36 PM - INFO - End Search test
+2020/17/03 22:42:36 PM - INFO - Click Start
+2020/17/03 22:42:36 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element {"using": "xpath", "value": "//*[starts-with(@id,'tbody-01-G21950')]/div[1]/div[6]/div[3]/a"}
+2020/17/03 22:42:36 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element HTTP/1.1" 200 88
+2020/17/03 22:42:36 PM - DEBUG - Finished Request
+2020/17/03 22:42:36 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element/2dafc383-718c-476b-9b43-51b89564ec3b/click {"id": "2dafc383-718c-476b-9b43-51b89564ec3b"}
+2020/17/03 22:42:36 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element/2dafc383-718c-476b-9b43-51b89564ec3b/click HTTP/1.1" 200 14
+2020/17/03 22:42:36 PM - DEBUG - Finished Request
+2020/17/03 22:42:36 PM - INFO - input Name
+2020/17/03 22:42:36 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element {"using": "xpath", "value": "//*[@id='pasglistdiv']/div/ul/li[2]/input"}
+2020/17/03 22:42:52 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element HTTP/1.1" 200 88
+2020/17/03 22:42:52 PM - DEBUG - Finished Request
+2020/17/03 22:42:52 PM - DEBUG - POST http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd/element/40d3d878-97cf-44df-9f4b-a85c2a875b18/value {"text": "chineseluo", "value": ["c", "h", "i", "n", "e", "s", "e", "l", "u", "o"], "id": "40d3d878-97cf-44df-9f4b-a85c2a875b18"}
+2020/17/03 22:42:53 PM - DEBUG - http://127.0.0.1:52464 "POST /session/2190f78d8c0291a127216189d5ddd9fd/element/40d3d878-97cf-44df-9f4b-a85c2a875b18/value HTTP/1.1" 200 14
+2020/17/03 22:42:53 PM - DEBUG - Finished Request
+2020/17/03 22:42:55 PM - DEBUG - DELETE http://127.0.0.1:52464/session/2190f78d8c0291a127216189d5ddd9fd {}
+2020/17/03 22:42:55 PM - DEBUG - http://127.0.0.1:52464 "DELETE /session/2190f78d8c0291a127216189d5ddd9fd HTTP/1.1" 200 14
+2020/17/03 22:42:55 PM - DEBUG - Finished Request

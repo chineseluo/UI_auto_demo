@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="385246e0-b26d-4396-b7e3-28f477dffdd4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZDhEKQX6dW8pSIlaaGR9PogDeI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/report" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\xiecheng_UI_auto\report" />
+      <recent name="F:\xiecheng_UI_auto\testCase" />
+      <recent name="F:\xiecheng_UI_auto\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\xiecheng_UI_auto\base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_cases_inbatch">
+    <configuration name="run_cases_inbatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xiecheng_UI_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSuite/run_cases_inbatch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ticket_buy_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xiecheng_UI_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCase/ticket_buy_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for case01.Test1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="xiecheng_UI_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuite/testset1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case01.Test1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_ddt.test_ddt" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="xiecheng_UI_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_ddt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ddt.test_ddt&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in case01.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="xiecheng_UI_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuite/testset1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestSuite/testset1/case01.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_cases_inbatch" />
+        <item itemvalue="Python tests.Unittests for test_ddt.test_ddt" />
+        <item itemvalue="Python tests.Unittests for case01.Test1" />
+        <item itemvalue="Python tests.Unittests in case01.py" />
+        <item itemvalue="Python.ticket_buy_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="697" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584464831778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584464831778" />
+    <state width="1899" height="291" key="GridCell.Tab.0.bottom" timestamp="1584466903337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903337" />
+    <state width="1899" height="291" key="GridCell.Tab.0.center" timestamp="1584466903336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="291" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903336" />
+    <state width="1899" height="291" key="GridCell.Tab.0.left" timestamp="1584466903336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="291" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903336" />
+    <state width="1899" height="291" key="GridCell.Tab.0.right" timestamp="1584466903337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="291" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903337" />
+    <state width="1899" height="359" key="GridCell.Tab.1.bottom" timestamp="1584466903334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="359" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903334" />
+    <state width="1899" height="359" key="GridCell.Tab.1.center" timestamp="1584466903334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="359" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903334" />
+    <state width="1899" height="359" key="GridCell.Tab.1.left" timestamp="1584466903334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="359" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903334" />
+    <state width="1899" height="359" key="GridCell.Tab.1.right" timestamp="1584466903334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="359" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584466903334" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584454866315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584454866315" />
+  </component>
+</project>
